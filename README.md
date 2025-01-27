@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rediet Haileab</h1>
 <h3 align="center">I am Rediet Haileab and I am Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redietwegene" alt="redietwegene" /></a> </p>
+
 
 - 📫 How to reach me **rediethaileab@gmail.com**
 
